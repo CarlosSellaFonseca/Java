@@ -1,6 +1,6 @@
 # java
 
-This repository contains codes for Java applications.
+This repository contains Java applications code for training. 
 
 my-musics -> Development of music system, using concepts of object orientation, encapsulation, inheritance and polymorphism.</br>
 </br>
